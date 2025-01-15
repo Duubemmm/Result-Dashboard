@@ -1,8 +1,8 @@
-#Frontend Mentor - Result Dashboard Challenge
+# Frontend Mentor - Result Dashboard Challenge
 
 Welcome to my solution for the Result Dashboard challenge from Frontend Mentor. This project focuses on building a clean and responsive result dashboard using HTML and CSS.
 
-#Table of Contents
+# Table of Contents
 
 **Overview**
 
@@ -18,11 +18,11 @@ Welcome to my solution for the Result Dashboard challenge from Frontend Mentor. 
 
 **Acknowledgments**
 
-#Overview
+# Overview
 
 The Result Dashboard is a static web page designed to display user performance metrics in a visually appealing and responsive layout. The goal of this project was to practice fundamental web development skills, such as semantic HTML, modular CSS, and responsive design principles.
 
-#Features
+# Features
 
 Responsive Design: Optimized for various devices, including mobile, tablet, and desktop.
 
@@ -32,7 +32,7 @@ Custom Styling: Carefully crafted color schemes and typography for visual appeal
 
 Lightweight: No JavaScript; entirely built using HTML and CSS.
 
-#Built With
+# Built With
 
 **HTML5:** For semantic structure and content organization.
 
@@ -40,7 +40,7 @@ Lightweight: No JavaScript; entirely built using HTML and CSS.
 
 **VS Code:** My preferred code editor for this project.
 
-#Getting Started
+# Getting Started
 
 **Prerequisites**
 
@@ -50,7 +50,7 @@ A web browser (Chrome, Firefox, Edge, etc.)
 
 A code editor (optional, if you want to edit the code)
 
-#Installation
+# Installation
 
 Clone this repository:
 
@@ -65,16 +65,19 @@ Open index.html in your browser to view the project.
 #Project Structure
 
 ├── index.html
-├── styles.css/  
+
+├── styles.css  
+
 └── assets/
-    ├── images/
+    ├── images/ 
     └── icons/
+    
 index.html: Contains the main structure of the dashboard.
 
 styles.css: Custom styles for the project.
 
 assets/: Directory for images and other static assets.
 
-#Acknowledgments
+# Acknowledgments
 
 Thanks to Frontend Mentor for providing this challenge!
