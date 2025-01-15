@@ -66,10 +66,10 @@ Open index.html in your browser to view the project.
 
 ├── index.html
 
-├── styles.css  
+├── CSS/
+   ├──styles.css  
 
 └── assets/
-    ├── images/ 
     └── icons/
     
 index.html: Contains the main structure of the dashboard.
